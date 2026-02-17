@@ -17,9 +17,9 @@ class Program
             num = num / 10;
         }
         if (sum == temp)
-            Console.WriteLine("The number is a Krishnamurti Number");
+            Console.WriteLine("The number is a Krishnamurthy  Number");
         else
-            Console.WriteLine("The number is not a Krishnamurti Number");
+            Console.WriteLine("The number is not a Krishnamurthy  Number");
               Console.ReadLine();
     }
 }
